@@ -22,3 +22,19 @@ To improve my programming skills and build projects using GitHub.
 - Learning GitHub
 - Learning Web Development
 - Practicing coding every day
+# Git and GitHub Notes
+
+## What is Git?
+
+Git is a version control system used to track changes in code.
+
+## What is GitHub?
+
+GitHub is an online platform used to store, manage and share Git repositories.
+
+## Benefits
+
+- Version Control
+- Collaboration
+- Project Hosting
+- Portfolio Building
